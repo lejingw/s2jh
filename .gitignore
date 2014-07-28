@@ -5,3 +5,6 @@ rebel.xml
 /prototype/runtime/h2
 /prototype/runtime/prototype.war
 *.jasper
+.classpath
+.project
+*.war
